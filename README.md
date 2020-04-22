@@ -2,6 +2,7 @@
 
 **HEY!! I'm gonna make a portfolio website today.**
 
+![Need Some Motivation eh?!](m12.png)
 
 Also, stay tuned for a new update regarding my Youtube Channel.
 
