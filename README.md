@@ -1,6 +1,7 @@
 # This is my Website
 
-HEY!! I'm gonna make a portfolio website today.
+**HEY!! I'm gonna make a portfolio website today.**
+
 
 Also, stay tuned for a new update regarding my Youtube Channel.
 
